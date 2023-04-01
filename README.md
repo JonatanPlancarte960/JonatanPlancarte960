@@ -5,14 +5,14 @@
 ### (I'm Software Developer and Clash Royale Content Creator) 
 
 ### Redes Sociales (Social Media)
-#### ![Youtube Image](/Youtube.png)[<div style="text-align:center"> Youtube](https://www.youtube.com/@OXIJonatan)
+#### ![Youtube Image](/Youtube.png)[Youtube](https://www.youtube.com/@OXIJonatan)
 ---
 
 ### Certificaciones y Cursos (Certifications and Courses)
-#### ![Microsoft Certified Image](/Microsoft-AZ-900-Exam.webp)[<div style="text-align:center"> Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/1404375a-baf0-4ca8-8e20-6ef36b4fb2d3?source=linked_in_profile)
+#### ![Microsoft Certified Image](/Microsoft-AZ-900-Exam.webp)[<Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/1404375a-baf0-4ca8-8e20-6ef36b4fb2d3?source=linked_in_profile)
 ----
 
-#### ![Microsoft Learn Image](/Microsoft-Logo.png)[<div style="text-align:center"> Microsoft Learn](https://learn.microsoft.com/es-es/users/JonatanIsraelPlancarte)
+#### ![Microsoft Learn Image](/Microsoft-Logo.png)[Microsoft Learn](https://learn.microsoft.com/es-es/users/JonatanIsraelPlancarte)
 
 ---
 
